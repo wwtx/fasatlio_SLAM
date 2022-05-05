@@ -1,0 +1,8 @@
+prefix=/home/agx/SLAM相关程序/LIO-SAM_rslidar22/catkin_ws/src/rs_to_velodyne/build/devel
+
+Name: rs_to_velodyne
+Description: Description of rs_to_velodyne
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

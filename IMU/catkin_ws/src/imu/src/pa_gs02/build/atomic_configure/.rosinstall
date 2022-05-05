@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/test/imu/src/pa_gs02/build/devel/setup.sh
